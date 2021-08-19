@@ -1,5 +1,3 @@
-<script>
-
 //QUOTES
 var greeting = "It's great to see you!";
 var response = 'Billy said, "I am sick"';
@@ -24,5 +22,3 @@ shoutGreeting; // 'GOOD TO SEE YOU';
 var greeting = "Hi,";
 var myName = "Rob";
 greeting + " " + myName; // "Hi, Rob"
-
-</script>
